@@ -398,5 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Input
-AdventOfCode/input.txt
 /AdventOfCode/input.txt
