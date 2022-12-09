@@ -10,7 +10,7 @@ namespace AdventOfCode
     {
         static void Main()
         {
-            DaySeven.Init();
+            DayEight.Init();
         }
 
     }
